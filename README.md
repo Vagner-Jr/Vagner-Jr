@@ -1,9 +1,3 @@
-<h1 align="center">
-    <img src="./assets/devn.png" alt="Imagem do topo do documento com o meu Logo"/>
-</h1>
-
-<br/>
-
 <p align="left" font-size="1px">Olá, eu sou Vagner Jr👍!</p> 
 
 <br/>
@@ -11,14 +5,7 @@
 - 📚️ Atualmente, sou estudante da <a href="https://www.betrybe.com/" target="_blank">Tybe</a>
 - 💻️ Atuo com estudande de Desenvolvimento desde Junho/2023
 - 🎮️ Gosto de eSports
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <i class="devicon-html5-plain colored"></i>
-    <i  class="devicon-css3-plain colored"></i>
-    <i  class="devicon-javascript-plain colored"></i>
-    <i  class="devicon-nodejs-plain colored"></i>
-    <i  class="devicon-sqlite-plain colored"></i>
-</div>
+- ⌨️ Principais tecnologias atuais: HTML & CSS, JS.
 
 <br/>
 
