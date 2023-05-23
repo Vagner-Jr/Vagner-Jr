@@ -9,6 +9,10 @@
 
 <br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 <h2 align='center'>Contact</h2>
 
 <p align="center">
