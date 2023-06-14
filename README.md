@@ -2,7 +2,7 @@
 
 <br/>
 
-- 📚️ Atualmente, sou estudante da <a href="https://www.betrybe.com/" target="_blank">Tybe</a>
+- 📚️ Atualmente, sou estudante da <a href="https://app.rocketseat.com.br/" target="_blank">Rocketseat</a>
 - 💻️ Atuo com estudande de Desenvolvimento desde Junho/2023
 - 🎮️ Gosto de eSports
 - ⌨️ Principais tecnologias atuais: HTML & CSS, JS.
